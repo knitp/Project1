@@ -1,1 +1,1 @@
-# Project1 It is basic design of Gym Website
+# Project1 It is baisc view of Gym Website
